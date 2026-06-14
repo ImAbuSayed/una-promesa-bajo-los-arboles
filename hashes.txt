@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Una promesa bajo los árboles
+
+This log tracks the cryptographic history and versioning for the song **Una promesa bajo los árboles** (una-promesa-bajo-los-arboles).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:41:35.141561 | `v1` | `dbc8963643e95f44bfa63665f2412119b6890470cd70102a9d51cf5370b3b5cd` | `33b22060a64db58533266f1c20dbefbb6e724e4a3146b8ff4dce135a681102ff` | `2026-06-14_una-promesa-bajo-los-arboles-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
