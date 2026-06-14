@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/una-promesa-bajo-los-arboles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Una promesa bajo los árboles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-promesa-bajo-los-arboles/) |
+| **Get License** | [Request Licensing for Una promesa bajo los árboles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-promesa-bajo-los-arboles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see you shining in the neon lights tonight
+> Got that magnetic pull, you're looking so divine
+> A secret promise underneath the trees, you're mine
+> I'll be the shadow when you want to cross the line
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
